@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webdriverio/wdio-jasmine-framework.git"
+    "url": "git+https://github.com/shivs25/wdio-jasmine-framework.git"
   },
   "keywords": [
     "jasmine",
@@ -23,9 +23,9 @@
   "author": "Christian Bromann <christian@saucelabs.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webdriverio/wdio-jasmine-framework/issues"
+    "url": "https://github.com/shivs25/wdio-jasmine-framework/issues"
   },
-  "homepage": "https://github.com/webdriverio/wdio-jasmine-framework#readme",
+  "homepage": "https://github.com/shivs25/wdio-jasmine-framework#readme",
   "dependencies": {
     "babel-runtime": "^5.8.25",
     "jasmine": "^2.5.2",
