@@ -1,6 +1,6 @@
 {
   "name": "wdio-jasmine-framework",
-  "version": "0.2.16",
+  "version": "0.2.17-alpha",
   "description": "A WebdriverIO plugin. Adapter for Jasmine testing framework.",
   "main": "build/adapter.js",
   "scripts": {
@@ -29,7 +29,7 @@
   "dependencies": {
     "babel-runtime": "^5.8.25",
     "jasmine": "^2.5.2",
-    "wdio-sync": "https://github.com/shivs25/wdio-sync/archive/master.zip"
+    "wdio-sync": "https://github.com/shivs25/wdio-sync/archive/0.6.9-alpha.tar.gz"
   },
   "devDependencies": {
     "babel": "^5.8.23",
