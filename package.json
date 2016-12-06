@@ -1,6 +1,6 @@
 {
   "name": "wdio-jasmine-framework",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "description": "A WebdriverIO plugin. Adapter for Jasmine testing framework.",
   "main": "build/adapter.js",
   "scripts": {
@@ -28,7 +28,8 @@
   "homepage": "https://github.com/shivs25/wdio-jasmine-framework#readme",
   "dependencies": {
     "babel-runtime": "^5.8.25",
-    "jasmine": "^2.5.2"
+    "jasmine": "^2.5.2",
+    "wdio-sync": "https://github.com/shivs25/wdio-sync/tarball/v0.6.16"
   },
   "devDependencies": {
     "babel": "^5.8.23",
@@ -54,8 +55,7 @@
     "mocha": "^2.3.4",
     "q": "^1.4.1",
     "should": "^7.1.0",
-    "sinon": "^1.17.1",
-    "wdio-sync": "https://github.com/shivs25/wdio-sync/tarball/v0.6.15"
+    "sinon": "^1.17.1"
   },
   "contributors": [
     "christian-bromann <mail@christian-bromann.com>",
